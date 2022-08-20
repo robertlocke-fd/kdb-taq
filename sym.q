@@ -1,4 +1,5 @@
 // schema.q
+// adding new comment
 // Quote Table Schema
 quote:([]time:`timestamp$();sym:`symbol$();bid:`float$();ask:`float$();bsize:`long$();asize:`long$());
 // trade Table Schema
